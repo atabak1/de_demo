@@ -11,7 +11,7 @@ de demo script
 
 <BODY>
 
-<CENTER>Diese Seite wurde zuletzt g&auml;ndert am:
+<CENTER>Diese Seite wurde zuletzt g&auml;ndert am :):
 
 <P><SCRIPT LANGUAGE=JavaScript>
 <!--
